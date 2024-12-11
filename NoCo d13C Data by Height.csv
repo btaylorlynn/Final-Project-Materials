@@ -1,0 +1,49 @@
+sample_id,Rel Ht (m?),Strat Ht (m),d13C,Lat,Long,rock_unit,Location,age_Ma,Mineral,group_id,Notes
+FP20-1P,11,0.05,-2.74,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-1g,11,0.05,-0.83,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-2,11,0.05,-2.61,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-3,11,,-3.26,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-4,11,0.45,-2.93,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-5,11,0.6,-2.69,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-6,11,0.7 (Ing?),-2.72,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-7,11,0.8 (Ing?),-2.71,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-8,11,0.94,-3.12,40.59,-105.18,Ingleside,Satanka cove ,,,group7,
+FP20-9,11,1.15,-3.74,40.59,-105.18,Fountain (Ingleside?),Satanka cove ,,,group7,
+FP20-10,11,1.4,DRR,40.59,-105.18,Ingleside,Satanka cove ,,,group7,
+FP20-11,11,2,-3.42,40.59,-105.18,Fountain (Ingleside?),Satanka cove ,,,group7,
+FP20-12,11,0.25?,-3.18,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-12g,11,0.25?,DRR,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-12p,11,0.25?,-3.36,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-13,11,0.25?,-2.62,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-14,11,0.15?,-2.22,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-15,11,0.15?,-2.35,40.59,-105.18,Fountain,Satanka cove ,,,group7,
+FP20-101,11,0.15?,-3.39,40.59,-105.18,Fountain,,,,group7,
+FP20-102,11,0.38?,-1.9,40.59,-105.18,Fountain,,,,group7,
+FP20-103,11,0.38?,DRR,40.59,-105.18,Fountain,,,,group7,
+FP20-104m,11,0.05?,-2.11,40.59,-105.18,Fountain,,,,group7,
+FP20-104C,11,0.05?,RR,40.59,-105.18,Fountain,,,,group7,
+FP20-105,11,1.85?,RR,40.59,-105.18,Ingleside,,,,group7,
+FP20-105P,11,1.85?,-3.58,40.59,-105.18,Fountain,,,,group7,
+FP20-106,11,,-3.41,40.59,-105.18,Ingleside,,,,group7,
+FP20-107,11,0.2,-2.58,40.59,-105.18,Ingleside,,,,group7,
+FP20-108,11,1,-2.1,40.59,-105.18,Ingleside,Lory State Park,,,group7,
+BEC-1,1,9.4,-3.22,40.9513,-105.2046,Fountain,Boxelder Canyon,,,group7,"possible paleosol beneath meter-thick sandstone; silt; top of paleosol is 28.1 m, bottom is at about 25.1 m; dark brown, root traces; "
+BEC-2,2,26.9,-3.92,40.95195,-105.2057,Fountain,Boxelder Canyon,,,group7,nodular-rich layer; some (spom?) calcite 
+BEC-3,3,27.55,-4.16,40.95,-105.21,Fountain,Boxelder Canyon,,,group7,root cast?
+BEC-4,4,28,-3.65,40.95,-105.21,Fountain,Boxelder Canyon,,,group7,"10 m beneath upper contact; nodule-rich layer, large nodules; exposure surface on limestone; Paleosol? about 60 cm thick"
+BEC-5,5,43.9,-4.39,40.95,-105.21,Fountain,Boxelder Canyon,,,group7,"small nodule-rich layer near upper contact; top of paleosol is at a stratigraphic height of 84.7 m, 30 cm thick"
+BEC-6,6,84.7,-1.78,40.95308,-105.20515,Fountain,Boxelder Canyon,,,group7,"semi-continous, caliche, carbonate-rich, molted"
+BEC-7,7,84.7,-2.34,40.95245,-105.20512,Fountain,Boxelder Canyon,,,group7,paleosol? 67.7 
+BEC-8,8,67.7,-2.78,40.95217,-105.20539,Fountain,Boxelder Canyon,,,group7,"calcite nodules and chips; very thin layer directly above limey sand; not sure whether it's a paleosol; bottom of red, silty unit"
+BEC-9,9,100,0.25,40.95471,-105.2057,Fountain,Boxelder Canyon,,,group7,immersed limestone maybe?
+BEC-10,10,100,-3.96,40.95514,-105.206,Fountain,Boxelder Canyon,,,group7,"nodule-rich, sandy-silty matrix; height is approximate--check with Sven and Lisa"
+LV-1,,,-2.31,40.42982,-105.20333,,,,,group7,
+LV-2,,,-2.12,40.42796,-105.20233,,,,,group7,
+LV-3,,,0.37,40.42796,-105.20233,,,,,group7,
+LV-4,,,-2.61,40.42806,-105.20235,,,,,group7,
+LV-5,,,-1.06,40.42806,-105.20235,,,,,group7,
+LV-6,,,-2.3,40.42883,-105.20285,,,,,group7,
+LV-7,,,,40.42883,-105.20285,,,,,group7,
+LV-8,,,,40.42709,-105.20219,,,,,group7,
+LV-9,,,,40.42701,-105.20215,,,,,group7,
+LV-10,,,,40.42712,-105.20219,,,,,group7,
